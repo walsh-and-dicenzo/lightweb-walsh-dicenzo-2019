@@ -24,6 +24,7 @@ body, html {
 }
 </style>
 
+.w3-card {
   background-color: white;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
