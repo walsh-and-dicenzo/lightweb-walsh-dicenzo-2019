@@ -22,4 +22,3 @@ function w3_open() {
 function w3_close() {
     mySidebar.style.display = "none";
 }
-</script>
